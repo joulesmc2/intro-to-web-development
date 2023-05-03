@@ -110,7 +110,7 @@ header h1 a{
 }
 .hero{
     position: relative;
-    background-image: url(images/digital-background-rawpixel.jpeg);
+    background-image: url(digital-background-rawpixel.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
